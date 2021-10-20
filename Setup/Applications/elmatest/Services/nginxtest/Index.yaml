@@ -2,5 +2,4 @@ harnessApiVersion: '1.0'
 type: SERVICE
 artifactType: DOCKER
 deploymentType: KUBERNETES
-description: ElmaApp
 helmVersion: V2
